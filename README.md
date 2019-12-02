@@ -1,16 +1,15 @@
 # JNDB_RC
-JNDB combined use of jupyter notebooks, docker containers and binder to improve education and reproducible research.
+JNDB combined the use of jupyter notebooks, docker containers and binder to improve education and reproducible research.
 
 Busting the docker Myth!   
 
 Would you like to easily share your data and research findings with your research team and the community to receive prompt feedback and improve reproducibility?
 
-The  integrate use of Jupyter Notebooks, docker containers and binder (JNDB) can allow you to do this in a timely manner! No need to spend days and days re-boosting your system and dependencies anymore! Just follow these few steps and you’ll be able to get the ball up and running in a blink of an eye! 
+The  integrated use of Jupyter Notebooks, docker containers and binder (JNDB) can allow you to do this in a timely manner! No need to spend days and days re-boosting your system and dependencies anymore! Just follow these few steps and you’ll be able to get the ball up and running in a blink of an eye! 
 
 The key benefit of Docker is that it allows users to package an application with all of its dependencies into a standardized unit for software development. Unlike virtual machines, containers do not have high overhead and hence enable more efficient usage of the underlying system and resources.
 
-You can think of a Docker’s image like a picture of a specific landscape and a
-containers like everything that is part of the picture and makes it unique. Containers include everything underneath that makes images run and can make them run again.
+You can think of a Docker’s image like a picture of a specific landscape and a container like everything that is part of the picture and makes it unique. Containers include everything underneath that makes images run and can make them run again, as that you can recreate the same picture whenever doesn't mather what machine you're using.
 
 1.	Get docker up running on your machine:
 
@@ -18,7 +17,7 @@ containers like everything that is part of the picture and makes it unique. Cont
     •	Intro to docket: https://docker-curriculum.com and Orientation and setup https://docs.docker.com/get-started/
     •	Basic docker commands: https://github.com/underworldcode/underworld2/blob/master/docs/cheatsheet/cheatsheet.pdf and https://underworld2.readthedocs.io/en/latest/Installation.html
 
-2.	Select your favorite version of uw2 images from the docker hub:
+2.	Select your favourite version of uw2 images from the docker hub:
     •	https://hub.docker.com/r/underworldcode/underworld2/tags?page=1&name=2.5. 
     •	 Launch docker on your terminal (e.g. type 
         $docker images
@@ -72,5 +71,5 @@ containers like everything that is part of the picture and makes it unique. Cont
 
 7. to show a binder badge you need to compy your binder instance in your read me gile, as:
 
-        https://hub-binder.mybinder.ovh/user/rcarluccio-jndb_rc_-subd-pdg8uznm/tree/JNDB_RC_-Subd
+https://hub-binder.mybinder.ovh/user/rcarluccio-jndb_rc_-subd-pdg8uznm/tree/JNDB_RC_-Subd
         
