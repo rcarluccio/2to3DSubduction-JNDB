@@ -1,0 +1,15 @@
+Mon Dec  2 12:49:40 2019 
+Running on 1 proc(s). 
+Set-up time: 143.85 seconds
+--------------------- 
+Time 	 Step 	 Stopwatch
+157.00 	 0 	 30.41 
+reduction operations time: 0.65 seconds
+Checkpoint saving time: 8.41 seconds
+170.00 	 1 	 33.66 
+reduction operations time: 1.00 seconds
+Checkpoint saving time: 11.82 seconds
+183.13 	 2 	 33.20 
+reduction operations time: 0.93 seconds
+Checkpoint saving time: 11.12 seconds
+time whole simulation: 281.21 seconds

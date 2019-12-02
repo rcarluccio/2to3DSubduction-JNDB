@@ -1,0 +1,32 @@
+Thu Oct 31 17:21:23 2019 
+Running on 1 proc(s). 
+Set-up time: 408.89 seconds
+--------------------- 
+Time 	 Step 	 Stopwatch
+157.00 	 0 	 29.40 
+reduction operations time: 0.77 seconds
+Checkpoint saving time: 14.04 seconds
+170.00 	 1 	 36.05 
+183.13 	 2 	 35.65 
+196.27 	 3 	 35.07 
+209.57 	 4 	 36.55 
+222.89 	 5 	 35.49 
+236.06 	 6 	 35.43 
+249.10 	 7 	 35.79 
+262.00 	 8 	 35.44 
+274.79 	 9 	 34.90 
+287.44 	 10 	 34.09 
+reduction operations time: 0.92 seconds
+Checkpoint saving time: 16.19 seconds
+300.00 	 11 	 37.82 
+312.46 	 12 	 35.60 
+324.81 	 13 	 35.17 
+337.11 	 14 	 37.58 
+349.32 	 15 	 36.85 
+361.47 	 16 	 36.62 
+373.47 	 17 	 31.16 
+385.37 	 18 	 33.04 
+397.20 	 19 	 34.35 
+408.92 	 20 	 34.55 
+reduction operations time: 1.02 seconds
+Checkpoint saving time: 16.87 seconds
