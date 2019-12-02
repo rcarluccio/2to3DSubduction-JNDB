@@ -39,7 +39,9 @@ containers like everything that is part of the picture and makes it unique. Cont
         $git push
     •	Write a README.txt file to explain the nature of your script
     •	Write a Docker file, this will allow you to connect your github repository, with the uw2 image and the binder instance.
-    •	For exemple,
+    •	For example:
+    
+    
         # UW image used:
         FROM underworldcode/uw2cylindrical:cylindrical
 
@@ -57,7 +59,9 @@ containers like everything that is part of the picture and makes it unique. Cont
 5.	Notebook Viewer is a part of the Jupyter ecosystem whose job is to make notebooks look nice.
     •	Get the URL of the thing you want to see: for example, the URL of your git repository, or the URL of a specific notebook file inside your repository.
     •	Take the https:// and other stuff off the front of your URL and replace it with nbviewer.jupyter.org
-    •	For example: https://nbviewer.jupyter.org/github/rsbyrne/demonstration/blob/master/MS98_demo/MS98.ipynb
+    •	For example:
+        
+        https://nbviewer.jupyter.org/github/rsbyrne/demonstration/blob/master/MS98_demo/MS98.ipynb
 
         with nbviewer:
         https://nbviewer.jupyter.org/github/rcarluccio/JNDB_RC_2D/blob/master/2D_PP/2D_PPsimplified/2D_PP.ipynb#
@@ -66,3 +70,7 @@ containers like everything that is part of the picture and makes it unique. Cont
     •	For example, https://www.qr-code-generator.com
 
 
+7. to show a binder badge you need to compy your binder instance in your read me gile, as:
+
+        https://hub-binder.mybinder.ovh/user/rcarluccio-jndb_rc_-subd-pdg8uznm/tree/JNDB_RC_-Subd
+        
