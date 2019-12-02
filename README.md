@@ -73,7 +73,7 @@ You can think of a Docker’s image like a picture of a specific landscape and a
     •	For example, https://www.qr-code-generator.com
 
 
-7. to show a binder badge you need to compy your binder instance in your read me gile, as:
+By Roberta Carluccio & Rohan Byrne
 
 
 
