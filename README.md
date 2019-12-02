@@ -71,5 +71,9 @@ You can think of a Docker’s image like a picture of a specific landscape and a
 
 7. to show a binder badge you need to compy your binder instance in your read me gile, as:
 
-https://hub-binder.mybinder.ovh/user/rcarluccio-jndb_rc_-subd-pdg8uznm/tree/JNDB_RC_-Subd
-        
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rcarluccio/JNDB_RC_-Subd/master)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/rcarluccio/JNDB_RC_-Subd/master
+
+
