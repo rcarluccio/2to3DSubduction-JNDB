@@ -1,2 +1,0 @@
-Mon Dec  2 12:03:58 2019 
-Running on 1 proc(s). 
