@@ -73,7 +73,6 @@ You can think of a Docker’s image like a picture of a specific landscape and a
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rcarluccio/JNDB_RC_-Subd/master)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/rcarluccio/JNDB_RC_-Subd/master
+
 
 
