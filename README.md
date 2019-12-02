@@ -1,3 +1,7 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rcarluccio/JNDB_RC_-Subd/master)
+
+
+
 # JNDB_RC
 JNDB combined the use of jupyter notebooks, docker containers and binder to improve education and reproducible research.
 
@@ -70,9 +74,6 @@ You can think of a Docker’s image like a picture of a specific landscape and a
 
 
 7. to show a binder badge you need to compy your binder instance in your read me gile, as:
-
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rcarluccio/JNDB_RC_-Subd/master)
 
 
 
