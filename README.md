@@ -3,7 +3,7 @@
 
 
 # JNDB_RC
-JNDB combined the use of jupyter notebooks, docker containers and binder to improve education and reproducible research.
+JNDB combines the use of jupyter notebooks, docker containers and binder to improve education and reproducible research.
 
 Busting the docker Myth!   
 
