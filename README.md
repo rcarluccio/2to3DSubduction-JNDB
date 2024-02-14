@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rcarluccio/2to3DSubduction-JNDB/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rcarluccio/2to3DSubduction-JNDB/main)
 
 
 
